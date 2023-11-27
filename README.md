@@ -1,4 +1,4 @@
-# KÍNH CHIẾU Yêu Quái 
+# KÍNH CHIẾU YÊU QUÁI 
 
 Mình nghịch dựa trên ý tưởng của một viral clip gần đây về việc đồng bộ vị trí của phần tử khi mở nhiều cửa sổ trình duyệt khác nhau chấp cả việc cửa sổ trình duyệt có di chuyển hay thay đổi kích cỡ như thế nào đi nữa. [Link video](https://twitter.com/_nonfigurativ_).
 
